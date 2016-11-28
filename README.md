@@ -201,7 +201,7 @@ The following guidelines refer to carbon4-kernel as the sample project being rel
 
  > Setting up the "Staging Profile" as explained in the above steps will be handled by the WSO2 Infra team, for every project in the WSO2 git repository.
 
-### Step 2: Restructuring the POM files
+#### Step 2: Restructuring the POM files
 
 Follow the instructions given below to restructure the pom files. The following uses [`carbon-kernel`](https://github.com/wso2/carbon-kernel/) as a reference project. 
 
